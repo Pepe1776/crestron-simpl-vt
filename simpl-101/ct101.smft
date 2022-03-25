@@ -1,0 +1,7 @@
+<Device Model="PRO3" Name="PRO3.">
+   <Network Type="Cresnet" Id="04"/>
+   <Network Type="Ethernet" Id="05">
+      <Device Model="XPanel 3.0 Crestron HTML5" DeviceId="03" Name="XPanel 3.0 Crestron HTML5 [Touch Panel]"/>
+      <Device Model="DSP-860" DeviceId="04" Name="DSP-860[audio][pro]"/>
+   </Network>
+</Device>
